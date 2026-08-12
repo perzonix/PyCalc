@@ -113,7 +113,7 @@ def handle_press(symbol, display, history_display):
         if '.' not in last_number:
             display.configure(text=current + '.')
 
-    else: # Обработка цифр
+    else: 
         if symbol in ['⌫', 'C', '=', 'x²', '1/x', '√', '+/-']:
             return
 
