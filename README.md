@@ -19,8 +19,8 @@ A modern and minimalist GUI calculator built with Python and the `customtkinter`
 ## 🖼 Screenshots
 
 <p align="center">
-  <img src="assets/dark_theme.png" width="45%" alt="Dark Theme" />
-  <img src="assets/light_theme.png" width="45%" alt="Light Theme" />
+  <img src="assets/dark_theme.png.png" width="50%" alt="Тёмная тема" /><br><br>
+  <img src="assets/light_theme.png.png" width="50%" alt="Светлая тема" />
 </p>
 
 ---
